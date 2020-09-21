@@ -45,5 +45,3 @@ _[1단계] `헤더(Header)` : 제목, 문단별 제목을 쓰고 싶을 때_
 
 
 ![이미지](https://github.com/tlsghwls44/tlsghwls44.github.io/blob/master/assets/img/main_column2.jpg)
-
-[![이미지2](https://theorydb.github.io/assets/img/think/2019-06-25-think-future-ai-1.png)](https://theorydb.github.io/think/2019/06/25/think-future-ai/)
