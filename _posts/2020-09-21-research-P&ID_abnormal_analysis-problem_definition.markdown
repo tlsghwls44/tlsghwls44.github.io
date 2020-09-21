@@ -36,6 +36,10 @@ PFD와 P&ID내 심볼과 텍스트를 인식하여 설계오류를 진단할 수
  - 테스트 도면으로 인식한 sequence 데이터와 2번째 단계에서 추출한 general process structure간 비교를 통해 이상진단 여부를 판단한다.
  
 
+### 3. 데이터 정의
+```
+
+```
 
 
 [asdf](https://naver.com)  
