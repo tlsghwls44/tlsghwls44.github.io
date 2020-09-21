@@ -20,7 +20,25 @@ _[1단계] `헤더(Header)` : 제목, 문단별 제목을 쓰고 싶을 때_
 
 ~~[1단계] `헤더(Header)` : 제목, 문단별 제목을 쓰고 싶을 때~~
 
-<u>제목, 문단별 제목을 쓰고 싶을 때</u>
+<u>밑줄</u>
 
 ---
 
+> 신호진
+>> 신호진
+>>> 신호진
+
+```
+메롱
+```
+
+`메롱`
+
+유형1(`설명어`를 클릭하면 URL로 이동) : [TheoryDB 블로그](https://theorydb.github.io "마우스를 올려놓으면 말풍선이 나옵니다.")  
+유형2(URL 보여주고 `자동연결`) : <https://theorydb.github.io>  
+유형3(동일 파일 내 `문단 이동`) : [동일파일 내 문단 이동](#markdown의-반드시-알아야-하는-문법) 
+
+
+![이미지](https://theorydb.github.io/assets/img/think/2019-06-25-think-future-ai-1.png "인공지능")
+
+[![이미지](https://theorydb.github.io/assets/img/think/2019-06-25-think-future-ai-1.png)](https://theorydb.github.io/think/2019/06/25/think-future-ai/)
