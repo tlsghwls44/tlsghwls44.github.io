@@ -1,5 +1,10 @@
 ---
-published: true
+layout: post
+title:  "[R] R 설치 및 환경구성(10분만에 끝내는)"
+subtitle:   "R 설치 및 환경구성(10분만에 끝내는)"
+categories: research
+tags: P&ID abnormal analysis
+comments: true
 ---
 # 개요
 
