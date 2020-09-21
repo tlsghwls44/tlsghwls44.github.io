@@ -1,7 +1,7 @@
 ---
 layout: post
-title:  "[R] R 설치 및 환경구성(10분만에 끝내는)"
-subtitle:   "R 설치 및 환경구성(10분만에 끝내는)"
+title:  "설계구조 기반 이상진단 방법론 정의"
+subtitle:   "설계구조 기반 이상진단 방법론 정의"
 categories: research
 tags: P&ID abnormal analysis
 comments: true
