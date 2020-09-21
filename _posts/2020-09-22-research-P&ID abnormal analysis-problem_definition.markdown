@@ -3,7 +3,7 @@ layout: post
 title:  "설계구조 기반 이상진단 방법론 정의"
 subtitle:   "설계구조 기반 이상진단 방법론 정의"
 categories: research
-tags: P&ID abnormal analysis
+tags: P&ID_abnormal_analysis
 comments: true
 ---
 # 개요
