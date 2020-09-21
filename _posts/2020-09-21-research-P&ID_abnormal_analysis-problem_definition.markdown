@@ -33,7 +33,8 @@ PFD와 P&ID내 심볼과 텍스트를 인식하여 설계오류를 진단할 수
 데이터 추출방법은 sequence 모델을 통해 추출한 모든 데이터를 pool에 저장한 후 기 정의된 threshold값을 초과하는 경우에만 general process structure로 목록화하는 절차로 진행된다. 
  
 3) 도면 이상진단 수행 단계
- - 
+ - 테스트 도면으로 인식한 sequence 데이터와 2번째 단계에서 추출한 general process structure간 비교를 통해 이상진단 여부를 판단한다.
+ 
 
 
 
