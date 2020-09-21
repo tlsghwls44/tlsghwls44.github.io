@@ -1,10 +1,11 @@
 ---
 layout: post
-title:  "설계구조 기반 이상진단 방법론 정의"
-subtitle:   "설계구조 기반 이상진단 방법론 정의"
+title: 설계구조 기반 이상진단 방법론 정의
+subtitle: 설계구조 기반 이상진단 방법론 정의
 categories: research
 tags: P&ID_abnormal_analysis
 comments: true
+published: true
 ---
 # 개요
 
@@ -15,27 +16,22 @@ comments: true
 5. 결론
 
 ## 1. 문제 정의
----
 
-**문제 정의**
+PFD와 P&ID내 심볼과 텍스트를 인식하여 설계오류를 진단할 수 있는 알고리즘은 현재까지 개발된 적이 없다.
 
-__[1단계] `헤더(Header)` : 제목, 문단별 제목을 쓰고 싶을 때__
+기존에는 QC(Quailty Control) 단계에서 manually하게 공정도면에 존재하는 오류 점검을 수행하였고 이는 `작업 소요시간` 및 `오류 발생률` 측면에서 개선을 필요로 한다.
 
-_[1단계] `헤더(Header)` : 제목, 문단별 제목을 쓰고 싶을 때_
+이 논문에서는 각 공정별로 typical한 **공정구조**가 존재한다는 점을 바탕으로 기존 엔지니어링 분야에서 문서화된 정보를 활용하여 도면 이상진단을 수행하는 방법론을 제안한다.
 
-~~[1단계] `헤더(Header)` : 제목, 문단별 제목을 쓰고 싶을 때~~
+## 2. 방법론
 
-<u>밑줄</u>
+1) Sequence 모델 구축 단계  
+- 도면 이상진단을 위해 각 공정 도면들로부터 심볼과 텍스트를 추출하고, 이를 이용하여 공정 unit간 연결성을 부여한 sequence 데이터를 형성하는 모델을 구축한다.
 
----
+2) General process structure 추출 단계
+ - 기존 도면 이미지로부터 구축한 sequence 모델을 이용해 general process structure를 추출한다.  
+ 
 
-> 신호진
->> 신호진
->>> 신호진
-
-```
-메롱
-```
 [asdf](https://naver.com)  
 `메롱`
 
