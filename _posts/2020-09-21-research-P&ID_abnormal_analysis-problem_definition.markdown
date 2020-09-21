@@ -30,7 +30,12 @@ PFD와 P&ID내 심볼과 텍스트를 인식하여 설계오류를 진단할 수
 
 2) General process structure 추출 단계
  - 기존 도면 이미지로부터 구축한 sequence 모델을 이용해 general process structure를 추출한다.  
+데이터 추출방법은 sequence 모델을 통해 추출한 모든 데이터를 pool에 저장한 후 기 정의된 threshold값을 초과하는 경우에만 general process structure로 목록화하는 절차로 진행된다. 
  
+3) 도면 이상진단 수행 단계
+ - 
+
+
 
 [asdf](https://naver.com)  
 `메롱`
