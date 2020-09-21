@@ -1,10 +1,10 @@
 ---
 layout: list
-title: Review
+title: review
 slug: review
 menu: true
 submenu: false
-order: 6
+order: 5
 description: >
-  IT 서적 및 그 외 다양한 서적을 읽고 작성한 리뷰 모음.
+  서적 또는 paper 리뷰 모음
 ---
