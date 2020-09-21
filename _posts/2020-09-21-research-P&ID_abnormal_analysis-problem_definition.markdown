@@ -39,9 +39,13 @@ PFD와 P&ID내 심볼과 텍스트를 인식하여 설계오류를 진단할 수
 ### 3. 데이터 정의
 ```
 Case study 1
- - 모든 펌프, 컴프레서 등 압축장비의 suction 배관에는 영구 strainer를 설치한다.
- 	* suction 배관 크기가 3inch 이상 : "T"type 또는 "Basket" type
-	* suction 배고나 크기가 2inch 이하
+ - 모든 원심 펌프의 suction 배관에는 영구 strainer를 설치한다.  
+ 	* suction 배관 크기가 3inch 이상 : "T" type 또는 "Basket" type  
+ 	* suction 배고나 크기가 2inch 이하 : "y" type
+    
+Case study 2
+ - 모든 펌프, 컴프레서 등의 압축장비는 discharge쪽에 check valve를 설치한다.  
+ 역류가 형성될 가능성이 없는 경우(예 : 위치나 압력이 낮은 곳으로 유체를 이송하는 
 ```
 
 
