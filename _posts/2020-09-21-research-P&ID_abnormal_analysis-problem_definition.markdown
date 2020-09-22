@@ -38,6 +38,10 @@ PFD와 P&ID내 심볼과 텍스트를 인식하여 설계오류를 진단할 수
 
 ## 3. 데이터 정의
 
+ - 심볼인식을 통해 인식한 object간에 연결성 및 순서를 부여한다.
+ - 기존의 scene graph에서 활용되는 visual genome dataset은 
+
+
 **[펌프]**  
 ```
 Case study 1
