@@ -36,8 +36,9 @@ PFD와 P&ID내 심볼과 텍스트를 인식하여 설계오류를 진단할 수
  - 테스트 도면으로 인식한 sequence 데이터와 2번째 단계에서 추출한 general process structure간 비교를 통해 이상진단 여부를 판단한다.
  
 
-### 3. 데이터 정의
+## 3. 데이터 정의
 ```
+[펌프]
 Case study 1
  - 모든 원심 펌프의 suction 배관에는 영구 strainer를 설치한다.  
  	* suction 배관 크기가 3inch 이상 : "T" type 또는 "Basket" type  
@@ -45,7 +46,12 @@ Case study 1
     
 Case study 2
  - 모든 펌프, 컴프레서 등의 압축장비는 discharge쪽에 check valve를 설치한다.  
- 역류가 형성될 가능성이 없는 경우(예 : 위치나 압력이 낮은 곳으로 유체를 이송하는 
+ 역류가 형성될 가능성이 없는 경우(예 : 위치나 압력이 낮은 곳으로 유체를 이송하는 단일 펌프인 경우)를 제외한다.
+ 
+Case study 3
+ - Discharge측 압력계기는 check valve 전단에 설치한다.
+
+참고문헌 : 화공도면실무 / 이주영, 박근수 지음
 ```
 
 
