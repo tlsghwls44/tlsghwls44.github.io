@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "마크다운 Typora 단축키 모음"
+title:  "[Marckdown] 마크다운 Typora 단축키 모음"
 subtitle: "Typora"
 categories: study
 tags: environment
