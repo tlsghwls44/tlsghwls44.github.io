@@ -30,7 +30,7 @@ Action의 Sequential한 정보를 얻어내는 것. 어떤 action이 가장 이�
 
 -> Reward를 Maximize 하는 것
 
- ![20201126_RL_1](C:\tlsghwls44_git\tlsghwls44.github.io\assets\img\post_img\20201126_RL_1.jpg)
+ ![2020-11-26-RL_1](C:\tlsghwls44_git\tlsghwls44.github.io\assets\img\post_img\2020-11-26-RL_1.jpg)
 
 
 
@@ -56,7 +56,7 @@ Reinforcement Learning과 Deep learning은 뿌리가 다른 학문임.
 
 ### Q-learning
 
-![20201126_RL_2](C:\tlsghwls44_git\tlsghwls44.github.io\assets\img\post_img\20201126_RL_2.jpg){: width="500" height="500"}
+![2020-11-26-RL_2](C:\tlsghwls44_git\tlsghwls44.github.io\assets\img\post_img\2020-11-26-RL_2.jpg)
 
 
 
@@ -69,3 +69,5 @@ Action을 취하면서 점수를 매기는데 그 점수가 가장 큰 action을
 Episode 1에서는 모든 방향이 다 점수가 0이므로 action을 random하게 취한다. (한 번도 목표점에 도달하지 못했기 때문에)
 
 Q값(랭크를 매긴 점수)는 이동을 하면서 update 된다. 
+
+![2020-11-26-RL_3](C:\tlsghwls44_git\tlsghwls44.github.io\assets\img\post_img\2020-11-26-RL_3.jpg)
