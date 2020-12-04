@@ -37,8 +37,19 @@ comments: true
 
 7.  이미지 : 이미지 주소 복사해서 붙여넣기 / 드래그앤드롭
 
-8.  그 외 : `Ctrl+x, c, v, z, s` / `Ctrl+b, u, i` 같이 워드나 한글에서 사용하는 단축키도 사용가능.
+8. 그 외 : `Ctrl+x, c, v, z, s` / `Ctrl+b, u, i` 같이 워드나 한글에서 사용하는 단축키도 사용가능
 
+9. 함수를 사용하고 싶으면 [Latex code 변환기](https://latex.codecogs.com/eqneditor/editor.php)를 사용해라.
 
+10.  [그리스문자](http://www.htmlhelp.com/reference/html40/entities/symbols.html) 변환기호 주소
 
+    | 명령          | 실제 표현 | 설명     | -    |
+    | ------------- | --------- | -------- | ---- |
+    | `<sup></sup>` | 앞중간뒤  | 위첨자   |      |
+    | `<sub></sub>` | 앞중간뒤  | 아래첨자 |      |
+    | `<ul></ul>`   | 앞중간뒤  |          |      |
+    | `<dl></dl>`   | 앞중간뒤  |          |      |
+    | `<s></s>`     | 앞중간뒤  |          |      |
 
+11. 가운데 정렬 ` <center>제목2</center>`
+12. 
